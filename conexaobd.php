@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "", "loja_fullstack");
+    $conn = mysqli_connect("localhost", "root", "", "loja_fullstackphp");
  
     if (!$conn){
         die ("Falha na conexão com o BD " . mysqli_connect_errno());
