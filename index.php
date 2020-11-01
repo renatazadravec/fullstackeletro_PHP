@@ -8,7 +8,7 @@
   </head>
   <body>
     
-    <?php include_once("header.php"); ?>
+    <?php include_once("header.html"); ?>
 
     <main>
       <h4>Seja bem vindo (a)!</h4>

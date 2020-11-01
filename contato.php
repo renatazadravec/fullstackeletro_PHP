@@ -8,7 +8,7 @@
   </head>
   <body>
 
-    <?php include_once("header.php"); ?>
+    <?php include_once("header.html"); ?>
 
     <section id="pagina-contato">
       <h2>Contatos</h2>
